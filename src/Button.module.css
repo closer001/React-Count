@@ -1,0 +1,23 @@
+.button{
+    border: 0;
+    margin: 0 0.5rem;
+    border-radius: 11px;
+    width: 150px;
+    height: 50px;
+    color: #fff;
+    text-align: center;
+    font-size: 1.18rem;
+    cursor: pointer;
+}
+
+button:nth-child(1){
+    background: red;
+}
+
+button:nth-child(2){
+    background: gray;
+}
+
+button:nth-child(3){
+    background: green;
+}
